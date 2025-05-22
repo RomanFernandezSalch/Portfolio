@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+html, body {
+  height: 100%;
+  margin: 0;
+}
+
+@theme {
+  --color-header: #222231;
+  --color-hero: #45465e;
+  --color-texto: #a0b1d9;
+  --color-hover: #646f87;
+  --color-terciario: #B8CFCE;
+  --color-fondo: #e4e3ff;
+}
