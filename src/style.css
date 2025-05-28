@@ -12,4 +12,6 @@ html, body {
   --color-hover: #646f87;
   --color-terciario: #B8CFCE;
   --color-fondo: #e4e3ff;
+  --breakpoint-xssl: 64rem;
+  --breakpoint-xsl: 90rem;
 }
